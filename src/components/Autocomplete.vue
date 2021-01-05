@@ -144,6 +144,8 @@ input[type="submit"]{
   height: 52px;
   width: 100px;
   border-radius: 25px;
+  color:white;
+  background: teal;
 }
 
 input[type="submit"]:focus {
